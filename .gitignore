@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.DS_Store
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.json
+models/*.joblib
+reports/*.csv
+reports/*.json
+reports/r_analysis/
+!.gitkeep
+
